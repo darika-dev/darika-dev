@@ -1,3 +1,5 @@
+<h1 align="center">Hi, I'm Daria 👋</h1>
+
 <p align="center"><strong>
   Front End engineer with 8 years of experience in developing javascript front-end, including using modern 
   JavaScript frameworks (React, Vue.js) and creating animation with WebGL (ThreeJS). Also, I have experience with dApp.<br />
